@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+/.idea
+/node_modules
+/auto-imports.d.ts
+/components.d.ts
+/pnpm-lock.yaml
+/.vscode
